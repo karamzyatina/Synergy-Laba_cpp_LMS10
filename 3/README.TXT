@@ -1,4 +1,4 @@
-OnlineGBD Compiler C++ -> https://onlinegdb.com/ipSzef4Yg
+OnlineGBD Compiler C++ -> https://onlinegdb.com/MkQMAKYT_
 Author t.me/karamzyatina
 Donate Limks:
 ...
